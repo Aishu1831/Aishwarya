@@ -32,6 +32,7 @@ public static void main(String[] args) throws IOException {
 		 File src=coin.getScreenshotAs(OutputType.FILE);
 		 File dest=new File("./Screenshot/coin.png");
 		 Files.copy(src,dest);
+		  
 		 
 		 
 		
