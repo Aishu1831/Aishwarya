@@ -1,7 +1,5 @@
 package javaScriptExecutor;
 
-import java.awt.Rectangle;
-import java.io.IOException;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
